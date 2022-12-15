@@ -1,0 +1,75 @@
+Major,Unemployment Rate,Underemployment Rate,Median Wage Early Career,Median Wage Mid-Career,Share with Graduate Degree
+Agriculture,4.50,56.60,44000.00,66000.00,21.60
+Animal and Plant Sciences,4.30,58.10,40000.00,64000.00,35.00
+Environmental Studies,5.50,49.90,40000.00,70000.00,31.50
+Architecture,5.20,22.20,50000.00,81000.00,41.00
+Ethnic Studies,8.50,48.00,40000.00,70000.00,49.50
+Communications,5.70,51.00,43100.00,74000.00,23.30
+Journalism,3.90,44.20,40000.00,68000.00,26.20
+Mass Media,6.90,49.90,41500.00,69000.00,18.60
+Advertising and Public Relations,6.20,48.10,45000.00,78000.00,20.40
+Information Systems & Management,6.10,28.90,52000.00,81000.00,25.00
+Computer Science,5.30,16.20,70000.00,100000.00,31.80
+General Education,2.10,25.90,40000.00,50000.00,49.10
+Early Childhood Education,1.40,22.00,36000.00,43700.00,38.80
+Elementary Education,1.70,15.10,39000.00,45400.00,47.40
+Secondary Education,3.60,24.90,40000.00,52000.00,49.60
+Special Education,3.50,15.80,40000.00,52000.00,61.80
+Miscellaneous Education,3.20,25.30,41000.00,53000.00,57.40
+General Engineering,2.10,27.80,62000.00,90000.00,37.30
+Aerospace Engineering,4.50,23.60,70000.00,110000.00,51.80
+Chemical Engineering,6.70,20.50,70000.00,111000.00,49.80
+Civil Engineering,3.60,15.60,63000.00,100000.00,37.00
+Computer Engineering,4.10,14.20,74000.00,110000.00,41.40
+Electrical Engineering,3.50,18.20,70000.00,107000.00,47.40
+Industrial Engineering,2.90,24.90,69000.00,93000.00,39.40
+Mechanical Engineering,4.40,19.40,68000.00,104000.00,40.10
+Miscellaneous Engineering,4.40,27.70,65000.00,100000.00,45.50
+Foreign Language,8.00,54.80,38000.00,67000.00,50.90
+Family and Consumer Sciences,4.50,44.00,32000.00,51000.00,33.50
+English Language,6.80,49.10,38000.00,65000.00,46.40
+Liberal Arts,8.80,52.60,37400.00,60000.00,30.40
+Biology,4.40,48.30,40000.00,70000.00,63.10
+Biochemistry,1.70,41.70,40000.00,86000.00,71.60
+Miscellaneous Biological Science,4.90,48.90,38000.00,65000.00,58.70
+Mathematics,7.60,25.90,53000.00,85000.00,51.70
+Interdisciplinary Studies,4.10,48.70,40900.00,65000.00,37.50
+Nutrition Sciences,3.10,42.80,44600.00,60000.00,43.70
+Leisure and Hospitality,5.80,59.00,38000.00,63000.00,32.80
+Philosophy,5.10,51.80,44000.00,65000.00,55.70
+Theology and Religion,4.40,44.60,36600.00,55000.00,43.50
+Chemistry,3.90,37.20,45800.00,75000.00,64.30
+Earth Sciences,3.00,40.80,42000.00,75000.00,44.10
+Physics,5.40,27.10,55000.00,80000.00,68.30
+Miscellaneous Physical Sciences,4.80,43.60,52000.00,82000.00,55.40
+Psychology,5.30,48.30,37000.00,60000.00,50.40
+Criminal Justice,4.60,71.10,40000.00,65000.00,22.50
+Public Policy and Law,7.00,47.80,50000.00,66000.00,43.70
+Social Services,2.10,34.40,35000.00,50000.00,50.50
+Anthropology,8.30,61.30,36000.00,60000.00,48.80
+Economics,4.10,33.90,60000.00,91000.00,41.30
+Geography,5.20,47.50,46000.00,74000.00,34.00
+Political Science,6.20,49.70,46000.00,80000.00,52.20
+Sociology,4.90,53.80,40000.00,61000.00,37.70
+General Social Sciences,11.40,56.30,34000.00,65000.00,38.30
+Construction Services,1.60,24.50,60000.00,94000.00,9.80
+Art History,7.80,54.50,40000.00,80000.00,44.20
+Fine Arts,9.20,58.00,38000.00,60000.00,22.70
+Performing Arts,9.10,70.20,34000.00,60000.00,38.50
+Commercial Art & Graphic Design,7.70,34.50,40000.00,70000.00,12.00
+Health Services,4.60,47.60,40000.00,58000.00,51.10
+Medical Technicians,0.70,56.00,48000.00,65000.00,22.40
+Nursing,2.00,11.80,55000.00,71000.00,28.30
+Pharmacy,5.00,23.40,45000.00,100000.00,62.20
+Treatment Theraphy,3.10,43.20,39000.00,70000.00,50.10
+General Business,5.60,52.00,45000.00,75000.00,24.70
+Accounting,2.90,23.20,52000.00,75000.00,30.30
+Business Management,4.70,56.00,45000.00,70000.00,24.00
+Business Analytics,3.30,30.80,60000.00,95000.00,23.50
+Marketing,5.80,53.30,47000.00,80000.00,17.60
+Finance,3.60,30.40,60000.00,95000.00,30.20
+International Affairs,5.40,47.50,48000.00,82000.00,45.00
+History,8.00,52.80,40000.00,65000.00,50.20
+Engineering Technologies,3.20,42.20,55000.00,85000.00,24.80
+Miscellaneous Technologies,6.70,59.00,42000.00,80000.00,17.60
+Overall,4.90,41.10,45000.00,72000.00,38.20
